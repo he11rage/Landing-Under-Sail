@@ -1,0 +1,149 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #163152;
+    background-color: #fdfdff;
+}
+
+.site-navigation {
+    list-style-type: none;
+}
+
+.site-navigation-item a {
+    font-size: 14px;
+    line-height: 129%;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.promo h1 {
+    font-style: italic;
+    font-size: 44px;
+    line-height: 136%;
+}
+
+.article .date {
+    font-size: 14px;
+    line-height: 129%;
+    text-transform: uppercase;
+}
+
+.article h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 142%;
+}
+
+.news h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 142%;
+}
+
+.news .about-winner {
+    font-size: 16px;
+    line-height: 119%;
+    color: #8693a4;
+    margin: 0 0 0 40px;
+}
+
+.news h3 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 118%;
+}
+
+.news p {
+    font-size: 18px;
+    line-height: 144%;
+}
+
+.news p span {
+    text-decoration: line-through;
+}
+
+.news h4 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+.teams-participants-item p {
+    font-size: 18px;
+    line-height: 144%;
+    margin: 0 0 0 0;
+}
+
+.news .quotation {
+    text-align: center;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 138%;
+}
+
+.news .author {
+    font-weight: 700;
+    line-height: 119%;
+}
+
+.news .date {
+    line-height: 119%;
+    color: #8693a4;
+}
+
+.contacts h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 142%;
+}
+
+.contacts-list {
+    list-style-type: none;
+}
+
+.contacts-list-item a {
+    text-decoration: none;
+    color: #163152;
+}
+
+.contacts-list-item h3 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 137%;
+}
+
+.contacts-list-item p {
+    line-height: 137%;
+}
+
+.social-list {
+    list-style-type: none;
+}
+
+.social-list-item a {
+    color: #163152;
+}
+
+.footer-navigation-list {
+    list-style-type: none;
+}
+
+.footer-navigation p {
+    font-size: 10px;
+    line-height: 120%;
+}
+
+.footer-navigation-item h2 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 129%;
+    text-transform: uppercase;
+}
+
+.footer-navigation-item a {
+    font-size: 14px;
+    line-height: 114%;
+    color: #163152;
+}
